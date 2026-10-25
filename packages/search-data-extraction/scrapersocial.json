@@ -14,9 +14,7 @@
       "url": "https://mcp.scrapersocial.com",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "mcp:access"
-        ]
+        "scopes": ["mcp:access"]
       }
     }
   ]
